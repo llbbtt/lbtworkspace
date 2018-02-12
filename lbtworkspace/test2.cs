@@ -2,6 +2,6 @@
 
 {
 
-    printf("Hello World!你好!你好啊！123456");
+    printf("Hello World!你好!你好啊！123");
 
 }
